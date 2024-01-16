@@ -1,0 +1,2 @@
+n .\README.md
+count: cat .\README.md | ? { $_ -like "- *" } | count 
