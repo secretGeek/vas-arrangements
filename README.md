@@ -2,7 +2,9 @@
 
 Songs that I want to practice for VAS
 
-- [i hung my head](./00_Hung_My_Head.pdf) - johnny cashew
+- [I hung my head](./00_Hung_My_Head.pdf) - johnny cashew
+
+- [Louie Louie](./01_Louie_Louie.pdf) - the kingsmen
 
 - Seven Nation Army Beginner Drill / WARM UP
 
@@ -11,8 +13,6 @@ Songs that I want to practice for VAS
 - Timewarp
 
 - Blues Brothers Style Theme from Peter Gunn
-
-- louie louie - the kingsmen
 
 - Bloody Mother fUCKING aSSHOLE - martha wainwright
 
@@ -57,4 +57,6 @@ Songs that I want to practice for VAS
 - mama don't like -- jj cale
 
 - Apache -- the shadows
+
+- Set the controls for the heart of the sun - pink floyd
 
