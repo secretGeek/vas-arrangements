@@ -7,7 +7,7 @@
 - [seven nation army (bass)](.\seven_nation_army_bass.pdf) - white stripes
 
 
-## From Maycation list
+## From Maycation list (PDF)
 
 - [BLACK](.\BLACK_OFFICIAL_by_Pearl_Jam.pdf) - Pearl Jam
 - [BULLS ON PARADE](.\BULLS_ON_PARADE_OFFICIAL_by_Rage_Against_the_Machine_@_Ultimate-Guitar.Com.pdf) - Rage against the machine
@@ -25,7 +25,7 @@
 - [together on the sand chords](.\together_on_the_sand_chords.pdf) - NOFX
 - [together on the sand tab](.\together_on_the_sand_tab.pdf) - NOFX
 
-
+## From Maycation list (no file yet)
 
 - Epic - Faith No More
 - Rooster - Alice in Chains
