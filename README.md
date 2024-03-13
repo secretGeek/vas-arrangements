@@ -1,12 +1,14 @@
 # README
 
-## General Warm up songs
+<small>online at <https://secretgeek.github.io/vas-arrangements/></small>
+
+
+## General Warm up songs (PDFs)
 
 - [seven nation army (bass)](.\seven_nation_army_bass.pdf) - white stripes
 - [wild thing (chords)](.\wild_thing_chords.pdf) - The Troggs
 - [Louie Louie (chords)](./01_Louie_Louie.pdf) - the kingsmen
 - [THEME from PETER GUNN (tab)](02_THEME_from_PETER_GUNN.pdf)
-
 
 ## From Maycation list (PDF)
 
