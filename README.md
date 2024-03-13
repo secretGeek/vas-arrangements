@@ -3,9 +3,9 @@
 ## General Warm up songs
 
 - [seven nation army (bass)](.\seven_nation_army_bass.pdf) - white stripes
-- [.\wild_thing_chords.pdf](.\wild_thing_chords.pdf) - The Troggs
-- [Louie Louie](./01_Louie_Louie.pdf) - the kingsmen
-- [THEME from PETER GUNN](02_THEME_from_PETER_GUNN.pdf)
+- [wild thing (chords)](.\wild_thing_chords.pdf) - The Troggs
+- [Louie Louie (chords)](./01_Louie_Louie.pdf) - the kingsmen
+- [THEME from PETER GUNN (tab)](02_THEME_from_PETER_GUNN.pdf)
 
 
 ## From Maycation list (PDF)
@@ -17,7 +17,7 @@
 - [Epic (tab)](.\epic_tab.pdf) - Faith No More
 - [EULOGY (official)](.\EULOGY_OFFICIAL_by_Tool_@_Ultimate-Guitar.Com.pdf) - TOOL
 - [For Whom The Bell Tolls (official)](.\For_Whom_The_Bell_Tolls_Official_by_Metallicatabs_@_Ultimate_Guitar_Archive.pdf) - Metallica
-- [GILA MONSTER (official)](.\GILA_MONSTER_OFFICIAL_by_King_Gizzard_&_The_Lizard_Wizard_@_Ultimate-Guitar.Com.pdf) - King Gizzard & the Lizard Wizard
+- [forest, a. (intro tab + chords)](.\a_forest_chords.pdf) - the Cure- [GILA MONSTER (official)](.\GILA_MONSTER_OFFICIAL_by_King_Gizzard_&_The_Lizard_Wizard_@_Ultimate-Guitar.Com.pdf) - King Gizzard & the Lizard Wizard
 - [Hung My Head (chords)](.\00_Hung_My_Head.pdf) - Jonathan Dollars
 - [hurt (official)](.\hurt_official.pdf) - Jonathan Dollars
 - [leave it alone (chords)](.\leave_it_alone_chords.pdf) - NOFX
@@ -34,33 +34,29 @@
 
 ## From Maycation list (no file yet)
 
-
 - Prison Sex - TOOL
 - Where the Wild Roses Grow - Nick Cave and Liza Minelli
-- A forest - the Cure
 
 
 ## Others From my existing list
 
-- Glory Box Portishead
-- Bloody Mother fUCKING aSSHOLE - martha wainwright
-- CREEP - radiohead
-- Heavy Heart - YouAmi
 - 1990's - custard
-- Cigarettes will kill you - ben lee
-- somebody that i used to know - goatyak
-- let's get it on - marvin gaytime
-- maybe this time
-- sing sing sing -- benny goodman -- the gene krupa drum intro
-- Tainted Love
-- lust for life - iggy pop
-- wild thing - troggs
-- perfect day - lou reedy
+- Apache - the shadows
+- Bloody Mother fUCKING aSSHOLE - martha wainwright
 - candy - iggy pop
-- walk on the wild side - louie reed
-- gloria - van morrison
+- Cigarettes will kill you - ben lee
+- CREEP - radiohead
 - day dream in blue (from acoustic)
-- mama don't like -- jj cale
-- Apache -- the shadows
+- gloria - van morrison
+- Glory Box Portishead
+- Heavy Heart - YouAmi
+- let's get it on - marvin gaytime
+- lust for life - iggy pop
+- mama don't like - jj cale
+- maybe this time
+- perfect day - lou reedy
 - Set the controls for the heart of the sun - pink floyd
-
+- sing sing sing - benny goodman (for the gene krupa drum intro)
+- somebody that i used to know - goatyak
+- Tainted Love
+- walk on the wild side - louie reed
