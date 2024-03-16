@@ -19,11 +19,13 @@
 - [Epic (tab)](.\epic_tab.pdf) - Faith No More
 - [EULOGY (official)](.\EULOGY_OFFICIAL_by_Tool_@_Ultimate-Guitar.Com.pdf) - TOOL
 - [For Whom The Bell Tolls (official)](.\For_Whom_The_Bell_Tolls_Official_by_Metallicatabs_@_Ultimate_Guitar_Archive.pdf) - Metallica
-- [forest, a. (intro tab + chords)](.\a_forest_chords.pdf) - the Cure- [GILA MONSTER (official)](.\GILA_MONSTER_OFFICIAL_by_King_Gizzard_&_The_Lizard_Wizard_@_Ultimate-Guitar.Com.pdf) - King Gizzard & the Lizard Wizard
+- [forest, a. (intro tab + chords)](.\a_forest_chords.pdf) - the Cure
+- [GILA MONSTER (official)](.\GILA_MONSTER_OFFICIAL_by_King_Gizzard_&_The_Lizard_Wizard_@_Ultimate-Guitar.Com.pdf) - King Gizzard & the Lizard Wizard
 - [Hung My Head (chords)](.\00_Hung_My_Head.pdf) - Jonathan Dollars
 - [hurt (official)](.\hurt_official.pdf) - Jonathan Dollars
 - [leave it alone (chords)](.\leave_it_alone_chords.pdf) - NOFX
 - [no one knows (chords)](.\no_one_knows_chords.pdf) - Queens of the Stone Age
+- [Prison Sex (chords)](.\prison_sex_chords.pdf) - TOOL
 - [Rearviewmirror (chords)](.\rearviewmirror_chords.pdf) - Pearl Jam
 - [Red right hand (chords)](.\red_right_hand_chords.pdf) - Nicky Caverns
 - [Rooster (chords)](.\rooster_chords.pdf) - Alice in Chains
@@ -32,33 +34,28 @@
 - [Together On The Sand (Chords) (v2)](.\Together_On_The_Sand_Chords_(ver_2)_by_NOFXtabs_@_Ultimate_Guitar_Archive.pdf) - NOFX
 - [together on the sand (chords)](.\together_on_the_sand_chords.pdf) - NOFX
 - [together on the sand (tab)](.\together_on_the_sand_tab.pdf) - NOFX
-
-
-## From Maycation list (no file yet)
-
-- Prison Sex - TOOL
-- Where the Wild Roses Grow - Nick Cave and Liza Minelli
-
+- [Where the Wild Roses Grow (chords)](.\where_the_wild_roses_grow_chords.pdf) - Nice Cave and Liza Minelli
 
 ## Others From my existing list
 
 - 1990's - custard
 - Apache - the shadows
 - Bloody Mother fUCKING aSSHOLE - martha wainwright
-- candy - iggy pop
+- candy - iggy poop
 - Cigarettes will kill you - ben lee
-- CREEP - radiohead
+- [CREEP (chords)](.\creep_chords.pdf) - radiohead
 - day dream in blue (from acoustic)
 - gloria - van morrison
-- Glory Box Portishead
+- Glory Box - Portishead
 - Heavy Heart - YouAmi
 - let's get it on - marvin gaytime
-- lust for life - iggy pop
+- [Long Black Veil (chords)](.\long_black_veil__lefty_frizzell_chords.pdf) - Lefty Frizzell
+- lust for life - igg ePop
 - mama don't like - jj cale
-- maybe this time
-- perfect day - lou reedy
-- Set the controls for the heart of the sun - pink floyd
+- maybe this time - Glee cast with Kristin Chenoweth
+- perfect day - reedy lou
+- Set the controls for the heart of the sun - plink foyd
 - sing sing sing - benny goodman (for the gene krupa drum intro)
 - somebody that i used to know - goatyak
-- Tainted Love
-- walk on the wild side - louie reed
+- Tainted Love - soft cell
+- walk on the wild side - loo reed
