@@ -33,9 +33,23 @@ Earlier versions of these were inadequate.
 - [BLACK (chords)](.\black_chords__pearl_jam.pdf) - Pearl Jam
 - [BLACK (tab)](.\black_tab__pearl_jam.pdf) - Pearl Jam
 - [BULLS ON PARADE (chords)](.\bulls_on_parade_chords.pdf) - Rage Against the Machine
+- [CHOP SUEY (Chords)](.\chop_suey_chords__system_of_a_down.pdf) - System of a down
+- [Elephant (chords)](.\elephant_chords__tame_impala.pdf) - TAME IMPALA
 - [Epic (tab)](.\epic_tab.pdf) - Faith No More
+- [Eulogy (chords)](.\eulogy_chords__TOOL.pdf) - TOOL
+-[For Whom The Bell Tolls (chords)](.\for_whom_the_bell_tolls_chords__TOOL.pdf) - Metallica
+- [For Whom The Bell Tolls (tab)](.\for_whom_the_bell_tolls_tab__TOOL.pdf) - Metallica
+
 - [forest, a. (intro tab + chords)](.\a_forest_chords.pdf) - the Cure
+
+- [GILA MONSTER (chords)](gila_monster_chords__King_Gizzard_and_the_Lizard_Wizzard.pdf) - King Gizzard & The Lizard Wizard
+- [GILA MONSTER (tab)](.\gila_monster_tab__king_gizzard_and_the_lizard_wizard.pdf) - King Gizzard & The Lizard Wizard
+
 - [Hung My Head (chords)](.\00_Hung_My_Head.pdf) - Jonathan Dollars
+
+- [hurt (chords)](.\hurt_chords__Johnny_Cash.pdf) - Jonathan Dollars
+- [hurt (tab)](.\hurt_tab__johnny_cash.pdf) - Jonathan Dollars
+
 - [leave it alone (chords)](.\leave_it_alone_chords.pdf) - NOFX
 - [no one knows (chords)](.\no_one_knows_chords.pdf) - Queens of the Stone Age
 - [Prison Sex (chords)](.\prison_sex_chords.pdf) - TOOL
