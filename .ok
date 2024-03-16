@@ -1,2 +1,5 @@
-n .\README.md
-count: cat .\README.md | ? { $_ -like "- *" } | count
+code . .\README.md
+count-List: cat .\README.md | ? { $_ -like "- *" } | sort | unique | count ;
+count-Files: cat .\README.md | ? { $_ -like "*.PDF*" } | sort | unique | count; 
+ratio:  git lg; ok 3; wh "^^ Songs," -f white -n;ok 2; "^^ Listed" ;
+live: & https://secretgeek.github.io/vas-arrangements/

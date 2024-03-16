@@ -2,6 +2,24 @@
 
 <small>online at <https://secretgeek.github.io/vas-arrangements/></small>
 
+## Recently Repaired
+
+Earlier versions of these were inadequate.
+
+- [BLACK (chords)](.\black_chords__pearl_jam.pdf) - Pearl Jam
+- [BLACK (tab)](.\black_tab__pearl_jam.pdf) - Pearl Jam
+- [BULLS ON PARADE (chords)](.\bulls_on_parade_chords.pdf) - Rage Against the Machine
+- [CHOP SUEY (Chords)](.\chop_suey_chords__system_of_a_down.pdf) - System of a down
+- [Elephant (chords)](.\elephant_chords__tame_impala.pdf) - TAME IMPALA
+- [Eulogy (chords)](.\eulogy_chords__TOOL.pdf) - TOOL
+-[For Whom The Bell Tolls (chords)](.\for_whom_the_bell_tolls_chords__TOOL.pdf) - Metallica
+- [For Whom The Bell Tolls (tab)](.\for_whom_the_bell_tolls_tab__TOOL.pdf) - Metallica
+- [GILA MONSTER (chords)](gila_monster_chords__King_Gizzard_and_the_Lizard_Wizzard.pdf) - King Gizzard & The Lizard Wizard
+- [GILA MONSTER (tab)](.\gila_monster_tab__king_gizzard_and_the_lizard_wizard.pdf) - King Gizzard & The Lizard Wizard
+- [hurt (chords)](.\hurt_chords__Johnny_Cash.pdf) - Jonathan Dollars
+- [hurt (tab)](.\hurt_tab__johnny_cash.pdf) - Jonathan Dollars
+
+------
 
 ## General Warm up songs (PDFs)
 
@@ -14,6 +32,7 @@
 
 - [BLACK (chords)](.\black_chords__pearl_jam.pdf) - Pearl Jam
 - [BLACK (tab)](.\black_tab__pearl_jam.pdf) - Pearl Jam
+- [BULLS ON PARADE (chords)](.\bulls_on_parade_chords.pdf) - Rage Against the Machine
 - [Epic (tab)](.\epic_tab.pdf) - Faith No More
 - [forest, a. (intro tab + chords)](.\a_forest_chords.pdf) - the Cure
 - [Hung My Head (chords)](.\00_Hung_My_Head.pdf) - Jonathan Dollars
@@ -30,16 +49,19 @@
 - [together on the sand (tab)](.\together_on_the_sand_tab.pdf) - NOFX
 - [Where the Wild Roses Grow (chords)](.\where_the_wild_roses_grow_chords.pdf) - Nice Cave and Liza Minelli
 
+## Discard these links
+
+- [BULLS ON PARADE (official)](.\BULLS_ON_PARADE_OFFICIAL_by_Rage_Against_the_Machine_@_Ultimate-Guitar.Com.pdf) - Rage against the machine
+- [CHOP SUEY (official)](.\CHOP_SUEY_OFFICIAL_by_System_Of_A_Down_@_Ultimate-Guitar.Com.pdf) - System of a down
+- [ELEPHANT (official)](.\ELEPHANT_OFFICIAL_by_Tame_Impala_@_Ultimate-Guitar.Com.pdf) - Tame Impala
+- [EULOGY (official)](.\EULOGY_OFFICIAL_by_Tool_@_Ultimate-Guitar.Com.pdf) - TOOL
+- [For Whom The Bell Tolls (official)](.\For_Whom_The_Bell_Tolls_Official_by_Metallicatabs_@_Ultimate_Guitar_Archive.pdf) - Metallica
+- [GILA MONSTER (official)](.\GILA_MONSTER_OFFICIAL_by_King_Gizzard_&_The_Lizard_Wizard_@_Ultimate-Guitar.Com.pdf) - King Gizzard & the Lizard Wizard
+- [hurt (official)](.\hurt_official.pdf) - Jonathan Dollars
+
 
 ## Find better files for these
 
-- [BULLS ON PARADE (official)](.\BULLS_ON_PARADE_OFFICIAL_by_Rage_Against_the_Machine_@_Ultimate-Guitar.Com.pdf) - Rage against the machine *** to be replaced
-- [CHOP SUEY (official)](.\CHOP_SUEY_OFFICIAL_by_System_Of_A_Down_@_Ultimate-Guitar.Com.pdf) - System of a down *** to be replaced
-- [ELEPHANT (official)](.\ELEPHANT_OFFICIAL_by_Tame_Impala_@_Ultimate-Guitar.Com.pdf) - Tame Impala *** to be replaced
-- [EULOGY (official)](.\EULOGY_OFFICIAL_by_Tool_@_Ultimate-Guitar.Com.pdf) - TOOL *** to be replaced
-- [For Whom The Bell Tolls (official)](.\For_Whom_The_Bell_Tolls_Official_by_Metallicatabs_@_Ultimate_Guitar_Archive.pdf) - Metallica *** to be replaced
-- [GILA MONSTER (official)](.\GILA_MONSTER_OFFICIAL_by_King_Gizzard_&_The_Lizard_Wizard_@_Ultimate-Guitar.Com.pdf) - King Gizzard & the Lizard Wizard  *** to be replaced
-- [hurt (official)](.\hurt_official.pdf) - Jonathan Dollars ** TO BE REPLACED (messed up file has rooser in it???)
 
 
 ## Others From my existing list
