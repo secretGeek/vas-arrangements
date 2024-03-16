@@ -1,6 +1,6 @@
 # README
 
-<small>online at <https://secretgeek.github.io/vas-arrangements/></small>
+<small>[online](https://secretgeek.github.io/vas-arrangements/) | [code](https://github.com/secretGeek/vas-arrangements)</small>
 
 ## Recently Repaired
 
