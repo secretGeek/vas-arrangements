@@ -39,17 +39,12 @@ Earlier versions of these were inadequate.
 - [Eulogy (chords)](.\eulogy_chords__TOOL.pdf) - TOOL
 -[For Whom The Bell Tolls (chords)](.\for_whom_the_bell_tolls_chords__TOOL.pdf) - Metallica
 - [For Whom The Bell Tolls (tab)](.\for_whom_the_bell_tolls_tab__TOOL.pdf) - Metallica
-
 - [forest, a. (intro tab + chords)](.\a_forest_chords.pdf) - the Cure
-
 - [GILA MONSTER (chords)](gila_monster_chords__King_Gizzard_and_the_Lizard_Wizzard.pdf) - King Gizzard & The Lizard Wizard
 - [GILA MONSTER (tab)](.\gila_monster_tab__king_gizzard_and_the_lizard_wizard.pdf) - King Gizzard & The Lizard Wizard
-
 - [Hung My Head (chords)](.\00_Hung_My_Head.pdf) - Jonathan Dollars
-
 - [hurt (chords)](.\hurt_chords__Johnny_Cash.pdf) - Jonathan Dollars
 - [hurt (tab)](.\hurt_tab__johnny_cash.pdf) - Jonathan Dollars
-
 - [leave it alone (chords)](.\leave_it_alone_chords.pdf) - NOFX
 - [no one knows (chords)](.\no_one_knows_chords.pdf) - Queens of the Stone Age
 - [Prison Sex (chords)](.\prison_sex_chords.pdf) - TOOL
@@ -61,7 +56,7 @@ Earlier versions of these were inadequate.
 - [Together On The Sand (Chords) (v2)](.\Together_On_The_Sand_Chords_(ver_2)_by_NOFXtabs_@_Ultimate_Guitar_Archive.pdf) - NOFX
 - [together on the sand (chords)](.\together_on_the_sand_chords.pdf) - NOFX
 - [together on the sand (tab)](.\together_on_the_sand_tab.pdf) - NOFX
-- [Where the Wild Roses Grow (chords)](.\where_the_wild_roses_grow_chords.pdf) - Nice Cave and Liza Minelli
+- [Where the Wild Roses Grow (chords)](.\where_the_wild_roses_grow_chords.pdf) - Nice Cave and Liza Minnelli
 
 ## Others From my existing list
 
