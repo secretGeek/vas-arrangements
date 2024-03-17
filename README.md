@@ -37,8 +37,8 @@ Earlier versions of these were inadequate.
 - [Elephant (chords)](.\elephant_chords__tame_impala.pdf) - TAME IMPALA
 - [Epic (tab)](.\epic_tab.pdf) - Faith No More
 - [Eulogy (chords)](.\eulogy_chords__TOOL.pdf) - TOOL
--[For Whom The Bell Tolls (chords)](.\for_whom_the_bell_tolls_chords__TOOL.pdf) - Metallica
-- [For Whom The Bell Tolls (tab)](.\for_whom_the_bell_tolls_tab__TOOL.pdf) - Metallica
+- [For Whom The Bell Tolls (chords)](.\for_whom_the_bell_tolls_chords__metallica.pdf) - Metallica
+- [For Whom The Bell Tolls (tab)](.\for_whom_the_bell_tolls_tab__metallica.pdf) - Metallica
 - [forest, a. (intro tab + chords)](.\a_forest_chords.pdf) - the Cure
 - [GILA MONSTER (chords)](gila_monster_chords__King_Gizzard_and_the_Lizard_Wizzard.pdf) - King Gizzard & The Lizard Wizard
 - [GILA MONSTER (tab)](.\gila_monster_tab__king_gizzard_and_the_lizard_wizard.pdf) - King Gizzard & The Lizard Wizard
