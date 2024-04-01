@@ -60,9 +60,9 @@ Earlier versions of these were inadequate.
 
 ## Others From my existing list
 
-- 1990's - custard
+- [1990's (chords)](1990s_chords__custard.pdf) - custard
 - Apache - the shadows
-- Bloody Mother fUCKING aSSHOLE - martha wainwright
+- [Bloody Mother Fucking Asshole (chords)](bmfa_chords__martha_wainwright.pdf)  - martha wainwright
 - candy - iggy poop
 - Cigarettes will kill you - ben lee
 - [CREEP (chords)](creep_chords.pdf) - radiohead
@@ -82,3 +82,4 @@ Earlier versions of these were inadequate.
 - Tainted Love - soft cell
 - [Tangled up in blue (chords)](tangled_up_in_blue_chords__bob_dylan.pdf) - bob dylan
 - walk on the wild side - loo reed
+- [wish you were here (chords)](wish_you_were_here_chords__pink_floyd.pdf) -   pink floyd
