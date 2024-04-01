@@ -61,15 +61,15 @@ Earlier versions of these were inadequate.
 ## Others From my existing list
 
 - [1990's (chords)](1990s_chords__custard.pdf) - custard
-- Apache - the shadows
+- [apache (tab)](apache_tab__the_shadows.pdf) - the shadows
 - [Bloody Mother Fucking Asshole (chords)](bmfa_chords__martha_wainwright.pdf)  - martha wainwright
-- candy - iggy poop
+- [candy (chords)](candy_chords__iggy_pop.pdf) - iggy poop
 - Cigarettes will kill you - ben lee
 - [CREEP (chords)](creep_chords.pdf) - radiohead
-- day dream in blue (from acoustic)
+- [daydream in blue (bass)](daydream_in_blue_bass__i_monster.pdf) - i monster
 - gloria - van morrison
 - Glory Box - Portishead
-- Heavy Heart - YouAmi
+- [heavy heart (chords)](heavy_heart_chords__youami.pdf) - YouAmi
 - let's get it on - marvin gaytime
 - [Long Black Veil (chords)](long_black_veil__lefty_frizzell_chords.pdf) - Lefty Frizzell
 - lust for life - igg ePop
